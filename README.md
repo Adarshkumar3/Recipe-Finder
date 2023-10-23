@@ -5,9 +5,6 @@
 * [Description](#description)
 * [Usage](#usage)
 * [Access](#access)
-* [Credits](#credits)
-* [Authors](#authors)
-
 ## Description
 
 Our goal for this collaborative project was to build a real-world front-end application from scratch.
@@ -28,20 +25,6 @@ To achieve this our group used HTML, CSS and Javascript. In addition, we used se
 - [Spoonacular](https://spoonacular.com/food-api/docs#Search-Recipes-by-Ingredients) for getting recipe names
 - And, [YouTube](https://developers.google.com/youtube/v3/docs/) for getting video recipe tutorials.
 
-### Screenshots of Application
-
-![Screenshot1 of application in Google Chrome browser](./assets/images/Recipe%20FindR%20results.png)
-
-![Screenshot2 of application in Google Chrome browser](./assets/images/Recipe%20FindR%20video%20result.png)
-
-![Screenshot3 of application in Google Chrome browser](./assets/images/image.png)
-
-### Original Wireframes of Application
-
-![Screenshot1 of wireframe](./assets/images/wireframe_results.png)
-
-![Screenshot2 of wireframe](./assets/images/wireframe_video.png)
-
 ## Usage
 
 1. Enter up to three ingredients in the search form.
@@ -51,9 +34,8 @@ To achieve this our group used HTML, CSS and Javascript. In addition, we used se
 
 ## Access
 
-To access the live application via Github Pages, click [here](https://hayleyarodgers.github.io/recipe-finder/).
-
-To access the repository where the code is saved, click [here](https://github.com/hayleyarodgers/recipe-finder).
+To access the live application via Github Pages, click [here](https://adarsh521.netlify.app/)
+To access the repository where the code is saved, click [here](https://github.com/Adarshkumar3/Recipe-Finder/).
 
 ## Credits
 
@@ -61,9 +43,3 @@ To access the repository where the code is saved, click [here](https://github.co
 - Documentation for [YouTube API](https://developers.google.com/youtube/v3/docs/).
 - A [tutorial](https://www.youtube.com/watch?v=FN_ffvw_ksE&t=1018s) we used to help develop our understanding of fetching APIs and rendering data with JavaScript.
 
-## Authors
-
-- [Chris Newbold](https://github.com/ChrisNewbold) - front-end design
-- [Luke Marshall](https://github.com/lukesudom) - functions related to Spoonacular API
-- [Ghassan Al Assadi](https://github.com/ghassanalassadi) - functions related to YouTube API
-- [Hayley Rodgers](https://github.com/hayleyarodgers) - data storage and team lead
