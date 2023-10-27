@@ -4,14 +4,12 @@
 
 * [Description](#description)
 * [Usage](#usage)
-* [Access](#access)
-## Description
-
-Our goal for this collaborative project was to build a real-world front-end application from scratch.
+* [Access](#acces)
+*  this  project was to build a real-world front-end application from scratch.
 
 ### RECIPE FINDR
 
-Our group created **RECIPE FINDR**, an application that gives the user a video tutorial for a recipe that uses ingredients they have at hand.
+ **RECIPE FINDR**, an application that gives the user a video tutorial for a recipe that uses ingredients they have at hand.
 
 RECIPE FINDR asks for up to three ingredients of the user's choice. It then searches the Spoonacular API for recipes using these ingredients, before displaying a list of recipe name results. Then, when a user selects the recipe they want to make, RECIPE FINDR searches the YouTube API for video tutorials on how to make this recipe. Users can return to a previously selected recipe at any point via the recipe history or do a new search.
 
